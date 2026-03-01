@@ -195,7 +195,7 @@
 
 Used Data:
 
-transcript:\n
+transcript:  
   data[channel|id|text]:\n
   Agent|0|नमस्कार जी\n
   Customer|1|हैलो जी नमस्कार सर\n
