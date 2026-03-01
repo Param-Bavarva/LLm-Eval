@@ -195,236 +195,236 @@
 
 Used Data:
 
-transcript:
-  data[channel|id|text]:
-  Agent|0|नमस्कार जी
-  Customer|1|हैलो जी नमस्कार सर
-  Agent|2|जी मैं कमल ठाकुर बात कर रहा हूँ जीना से
-  Customer|3|जी मैं सुनील कुमार बात कर रहा हूँ जिला बरेली तहसील से
-  Agent|4|ओके, मैं आपका नाम जान सकता हूँ, सुनील जी बात कर रहे हैं?
-  Customer|5|जी सर
-  Agent|6|आपको प्रॉब्लम क्या आ रही है वैसे, सुनील जी?
-  Customer|7|सर, मेरा दिक्कत है जो, वो टाइटपन बिल्कुल जीरो है।
-  Agent|8|आपका नाम जान सकता हूँ सबसे पहले
-  Customer|9|सुनील नाम है
-  Agent|10|सॉरी, मैं आपकी एज जान सकता हूँ?
-  Customer|11|एज है पच्चीस ही है
-  Agent|12|मैरिड हो आप
-  Customer|13|जी
-  Agent|14|प्रॉब्लम कब से आ रही है आपको टाइटपन के?
-  Customer|15|ये हो गए लम्प सम दो साल हो गए
-  Agent|16|इसके लिए कोई दवाई ली पहले आपने क्या ली थी मैं जान सकता हूँ
-  Customer|17|ये पाउडर वगैरह आते हैं जो।
-  Agent|18|आयुर्वेदिक या एलोपैथिक?
-  Customer|19|आयुर्वेदिक
-  Agent|20|नाम जान सकता हूँ उस पाउडर का?
-  Customer|21|ये सफेद मूसली वगैरह ये।
-  Agent|22|ओके
-  Customer|23|पाउडर चाहिए
-  Agent|24|ठीक है सर, अभी ऐसी कोई दवा तो नहीं ली आपने इंस्टेंट इरेक्शन वाले, एकदम से तनाव लाने वाली?
-  Customer|25|नहीं नहीं
-  Agent|26|ठीक है जी, बताना चाहता हूँ ये प्रॉब्लम हमें जब आती है, हमारे जो हार्मोन्स हैं वो इम्बैलेंस हो जाते हैं। जी, तो अभी इसके...
-  Customer|27|और
-  Agent|28|अलावा
-  Customer|29|सर
-  Agent|30|कोई गैस की प्रॉब्लम रहती है आपको
-  Customer|31|गैस की बहुत ज्यादा दिक्कत रहती है
-  Agent|32|बीपी, शुगर की कोई प्रॉब्लम नहीं रहती है उसके अलावा?
-  Customer|33|बीपी की तो रहती है, कम हो जाता है और शुगर वगैरह तो सही है।
-  Agent|34|ठीक है जी, अभी बताना चाहता हूँ ये प्रॉब्लम आपको पेनिस में इसलिए आ रही है जो आपका ब्लड का सर्कुलेशन है अच्छे से हो नहीं पा रहा है, सर्कुलेट नहीं हो पा रहा है, है ना जी?
-  Customer|35|नहीं
-  Agent|36|इसमें आपको तनाव नहीं आ पा रहा है। आप देखिए, तनाव ही नहीं आएगा तो टाइटपन ही नहीं होगा, है ना जी? अभी मॉर्निंग में...
-  Customer|37|टाइटपन।
-  Agent|38|इरेक्शन कैसा रहता है?
-  Customer|39|बिलकुल
-  Agent|40|है
-  Customer|41|बिल्कुल जीरो टाइटपन है।
-  Agent|42|मॉर्निंग में इरेक्शन कैसा रहता है वैसे, जान सकता हूँ मैं?
-  Customer|43|जी सर मैं समझा नहीं आपकी बात के लिए
-  Agent|44|सुबह के टाइम लिंग में तनाव कैसा आता है आपको?
-  Customer|45|बिलकुल नहीं आता है
-  Agent|46|नहीं आता
-  Customer|47|नहीं
-  Agent|48|पहले कोई ऐसी दवा तो नहीं ली थी आपने?
-  Customer|49|नहीं नहीं, मुझे डर के मारे ये कुछ नहीं लिया है। सर, मुझे डर लगता है कि कहीं और नुकसान न हो जाए ज्यादा।
-  Agent|50|हाँ जी हाँ
-  Customer|51|इसलिए नहीं खाई उलटी सीधी दवा, कहीं नुकसान न हो जाए और कहीं दिक्कत...
-  Agent|52|जी
-  Customer|53|हो
-  Agent|54|बिलकुल
+transcript:\n
+  data[channel|id|text]:\n
+  Agent|0|नमस्कार जी\n
+  Customer|1|हैलो जी नमस्कार सर\n
+  Agent|2|जी मैं कमल ठाकुर बात कर रहा हूँ जीना से\n
+  Customer|3|जी मैं सुनील कुमार बात कर रहा हूँ जिला बरेली तहसील से\n
+  Agent|4|ओके, मैं आपका नाम जान सकता हूँ, सुनील जी बात कर रहे हैं?\n
+  Customer|5|जी सर\n
+  Agent|6|आपको प्रॉब्लम क्या आ रही है वैसे, सुनील जी?\n
+  Customer|7|सर, मेरा दिक्कत है जो, वो टाइटपन बिल्कुल जीरो है।\n
+  Agent|8|आपका नाम जान सकता हूँ सबसे पहले\n
+  Customer|9|सुनील नाम है\n
+  Agent|10|सॉरी, मैं आपकी एज जान सकता हूँ?\n
+  Customer|11|एज है पच्चीस ही है\n
+  Agent|12|मैरिड हो आप\n
+  Customer|13|जी\n
+  Agent|14|प्रॉब्लम कब से आ रही है आपको टाइटपन के?\n
+  Customer|15|ये हो गए लम्प सम दो साल हो गए\n
+  Agent|16|इसके लिए कोई दवाई ली पहले आपने क्या ली थी मैं जान सकता हूँ\n
+  Customer|17|ये पाउडर वगैरह आते हैं जो।\n
+  Agent|18|आयुर्वेदिक या एलोपैथिक?\n
+  Customer|19|आयुर्वेदिक\n
+  Agent|20|नाम जान सकता हूँ उस पाउडर का?\n
+  Customer|21|ये सफेद मूसली वगैरह ये।\n
+  Agent|22|ओके\n
+  Customer|23|पाउडर चाहिए\n
+  Agent|24|ठीक है सर, अभी ऐसी कोई दवा तो नहीं ली आपने इंस्टेंट इरेक्शन वाले, एकदम से तनाव लाने वाली?\n
+  Customer|25|नहीं नहीं\n
+  Agent|26|ठीक है जी, बताना चाहता हूँ ये प्रॉब्लम हमें जब आती है, हमारे जो हार्मोन्स हैं वो इम्बैलेंस हो जाते हैं। जी, तो अभी इसके...\n
+  Customer|27|और\n
+  Agent|28|अलावा\n
+  Customer|29|सर\n
+  Agent|30|कोई गैस की प्रॉब्लम रहती है आपको\n
+  Customer|31|गैस की बहुत ज्यादा दिक्कत रहती है\n
+  Agent|32|बीपी, शुगर की कोई प्रॉब्लम नहीं रहती है उसके अलावा?\n
+  Customer|33|बीपी की तो रहती है, कम हो जाता है और शुगर वगैरह तो सही है।\n
+  Agent|34|ठीक है जी, अभी बताना चाहता हूँ ये प्रॉब्लम आपको पेनिस में इसलिए आ रही है जो आपका ब्लड का सर्कुलेशन है अच्छे से हो नहीं पा रहा है, सर्कुलेट नहीं हो पा रहा है, है ना जी?\n
+  Customer|35|नहीं\n
+  Agent|36|इसमें आपको तनाव नहीं आ पा रहा है। आप देखिए, तनाव ही नहीं आएगा तो टाइटपन ही नहीं होगा, है ना जी? अभी मॉर्निंग में...\n
+  Customer|37|टाइटपन।\n
+  Agent|38|इरेक्शन कैसा रहता है?\n
+  Customer|39|बिलकुल\n
+  Agent|40|है\n
+  Customer|41|बिल्कुल जीरो टाइटपन है।\n
+  Agent|42|मॉर्निंग में इरेक्शन कैसा रहता है वैसे, जान सकता हूँ मैं?\n
+  Customer|43|जी सर मैं समझा नहीं आपकी बात के लिए\n
+  Agent|44|सुबह के टाइम लिंग में तनाव कैसा आता है आपको?\n
+  Customer|45|बिलकुल नहीं आता है\n
+  Agent|46|नहीं आता\n
+  Customer|47|नहीं\n
+  Agent|48|पहले कोई ऐसी दवा तो नहीं ली थी आपने?\n
+  Customer|49|नहीं नहीं, मुझे डर के मारे ये कुछ नहीं लिया है। सर, मुझे डर लगता है कि कहीं और नुकसान न हो जाए ज्यादा।\n
+  Agent|50|हाँ जी हाँ\n
+  Customer|51|इसलिए नहीं खाई उलटी सीधी दवा, कहीं नुकसान न हो जाए और कहीं दिक्कत...\n
+  Agent|52|जी\n
+  Customer|53|हो\n
+  Agent|54|बिलकुल\n
   Customer|55|जाए
-  Agent|56|जी, देखिए क्योंकि उसमें केमिकल्स मिले होते हैं ना, साइड इफेक्ट्स करते हैं बहुत।
-  Customer|57|हाँ
-  Agent|58|ही ज्यादा। वो लिंग की ही नहीं, बल्कि और भी कमज़ोरी रहती है। अभी बताना चाहता हूँ, इसके लिए कुछ मेडिसिन रहेंगी और कुछ एक्सरसाइज़ बताई जाएँगी, वो आपने प्रॉपर्ली फॉलो करनी है। एक रहेंगी आपकी सुपरविज़ा टैबलेट, वो क्या करेगी?
-  Customer|59|कौन
-  Agent|60|आपकी जो सुपरविज़ा टैबलेट है, वो क्या करेगी? आपकी टाइटपन इंक्रीज़ करेगी, फिजिकल एंड्योरेंस, फिजिकल एक्टिविटी बढ़ाएगी। ठीक है जी। पौरुष ऑयल क्या करेगा? आपकी लिंग की नसों को खोलने में काम करेगा अच्छे से, है ना जी? देन...
-  Customer|61|अच्छा
-  Agent|62|एक रहेगा आपका पेट शुद्धि। पेट शुद्धि ऑल ओवर आपकी बॉडी को डिटॉक्स करेगी, गैस की प्रॉब्लम को जड़ से खत्म कर देगी। ठीक है ना जी? देन आपको तीन तरह की एक्सरसाइज़ बताई जाएँगी। एक रहेगा आपको कीगल एक्सरसाइज़। ठीक है, एक्सरसाइज़ क्या करेगी? आपके पेल्विक एरिया को स्ट्रॉन्ग करने में काम करेगी। ठीक है जी। दूसरा रहेगा...
-  Customer|63|जी
-  Agent|64|आपको एक्यूप्रेशर पॉइंट्स। एक्यूप्रेशर पॉइंट्स क्या करेंगे? आपको लिंग में तनाव लाने में काम करेंगे अच्छे से। तीसरा रहेगा आपका डीप ब्रीदिंग एक्सरसाइज़। आपको प्रॉपर्ली फॉलो करना है। अच्छी मात्रा में वेजिटेबल्स और फ्रूट्स बताए जाएंगे, आपने अच्छी मात्रा में फॉलो करना है। और ये जो प्रॉपर पैकेज में रहेगा, हमारा जो रहेगा, पांच हज़ार सात सौ अट्ठानवे रुपए का रहेगा।
-  Customer|65|कितना
-  Agent|66|पांच हज़ार सात सौ अट्ठानवे।
-  Customer|67|पांच हज़ार सात सौ
-  Agent|68|अट्ठानवे।
-  Customer|69|अच्छा
-  Agent|70|हाँ जी, और ये जो डिलीवरी है वो पांच से दस दिन में आपके डिलीवर हो जाएगी, सर जी।
-  Customer|71|ये दवा कितने दिन तक खानी पड़ेगी आपकी
-  Agent|72|ये आपको, ये प्रॉपर जो कोर्स रहेगा हमारा, डेढ़ से तीन मंथ का रहेगा।
-  Customer|73|डेढ़ से तीन मंथ का
-  Agent|74|हाँ जी, और बाकी बताना चाहता हूँ, पेमेंट का हमारा तीन तरह का प्रोसेस होता है। एक होता है कैश ऑन डिलीवरी, है ना जी? प्रीपेड और ऑनलाइन पेमेंट। तीन तरह की पेमेंट होती है हमारे पास में। बाकी वो आपको ऊपर डिपेंड करता है आपको कौनसी पेमेंट करनी है, तो कैश ऑन डिलीवरी या ऑनलाइन पेमेंट। हाँ।
-  Customer|75|ठीक है सर
-  Agent|76|जी हैलो
+  Agent|56|जी, देखिए क्योंकि उसमें केमिकल्स मिले होते हैं ना, साइड इफेक्ट्स करते हैं बहुत।\n
+  Customer|57|हाँ\n
+  Agent|58|ही ज्यादा। वो लिंग की ही नहीं, बल्कि और भी कमज़ोरी रहती है। अभी बताना चाहता हूँ, इसके लिए कुछ मेडिसिन रहेंगी और कुछ एक्सरसाइज़ बताई जाएँगी, वो आपने प्रॉपर्ली फॉलो करनी है। एक रहेंगी आपकी सुपरविज़ा टैबलेट, वो क्या करेगी?\n
+  Customer|59|कौन\n
+  Agent|60|आपकी जो सुपरविज़ा टैबलेट है, वो क्या करेगी? आपकी टाइटपन इंक्रीज़ करेगी, फिजिकल एंड्योरेंस, फिजिकल एक्टिविटी बढ़ाएगी। ठीक है जी। पौरुष ऑयल क्या करेगा? आपकी लिंग की नसों को खोलने में काम करेगा अच्छे से, है ना जी? देन...\n
+  Customer|61|अच्छा\n
+  Agent|62|एक रहेगा आपका पेट शुद्धि। पेट शुद्धि ऑल ओवर आपकी बॉडी को डिटॉक्स करेगी, गैस की प्रॉब्लम को जड़ से खत्म कर देगी। ठीक है ना जी? देन आपको तीन तरह की एक्सरसाइज़ बताई जाएँगी। एक रहेगा आपको कीगल एक्सरसाइज़। ठीक है, एक्सरसाइज़ क्या करेगी? आपके पेल्विक एरिया को स्ट्रॉन्ग करने में काम करेगी। ठीक है जी। दूसरा रहेगा...\n
+  Customer|63|जी\n
+  Agent|64|आपको एक्यूप्रेशर पॉइंट्स। एक्यूप्रेशर पॉइंट्स क्या करेंगे? आपको लिंग में तनाव लाने में काम करेंगे अच्छे से। तीसरा रहेगा आपका डीप ब्रीदिंग एक्सरसाइज़। आपको प्रॉपर्ली फॉलो करना है। अच्छी मात्रा में वेजिटेबल्स और फ्रूट्स बताए जाएंगे, आपने अच्छी मात्रा में फॉलो करना है। और ये जो प्रॉपर पैकेज में रहेगा, हमारा जो रहेगा, पांच हज़ार सात सौ अट्ठानवे रुपए का रहेगा।\n
+  Customer|65|कितना\n
+  Agent|66|पांच हज़ार सात सौ अट्ठानवे।\n
+  Customer|67|पांच हज़ार सात सौ\n
+  Agent|68|अट्ठानवे।\n
+  Customer|69|अच्छा\n
+  Agent|70|हाँ जी, और ये जो डिलीवरी है वो पांच से दस दिन में आपके डिलीवर हो जाएगी, सर जी।\n
+  Customer|71|ये दवा कितने दिन तक खानी पड़ेगी आपकी\n
+  Agent|72|ये आपको, ये प्रॉपर जो कोर्स रहेगा हमारा, डेढ़ से तीन मंथ का रहेगा।\n
+  Customer|73|डेढ़ से तीन मंथ का\n
+  Agent|74|हाँ जी, और बाकी बताना चाहता हूँ, पेमेंट का हमारा तीन तरह का प्रोसेस होता है। एक होता है कैश ऑन डिलीवरी, है ना जी? प्रीपेड और ऑनलाइन पेमेंट। तीन तरह की पेमेंट होती है हमारे पास में। बाकी वो आपको ऊपर डिपेंड करता है आपको कौनसी पेमेंट करनी है, तो कैश ऑन डिलीवरी या ऑनलाइन पेमेंट। हाँ।\n
+  Customer|75|ठीक है सर\n
+  Agent|76|जी हैलो\n
             
-keywords:
-  keywords[keyword_id|keyword_text]:
-  1|appointment booking
-  2|doctor consultation
-  3|opd registration
-  4|clinic visit
-  5|vaidya consultation
-  6|health checkup
-  7|treatment advice
-  8|follow up visit
-  9|wellness consultation
-  10|medical opinion
-  11|fever treatment
-  12|cold cough relief
-  13|stomach disorder treatment
-  14|diabetes management
-  15|blood pressure check
-  16|joint pain treatment
-  17|breathing difficulty
-  18|chest pain complaint
-  19|immunity booster therapy
-  20|weakness treatment
-  21|stress management therapy
-  22|sleep disorder treatment
-  23|obesity management program
-  24|thyroid care treatment
-  25|digestive problem care
-  26|liver disorder treatment
-  27|kidney health care
-  28|skin disease treatment
-  29|hair fall treatment
-  30|migraine relief therapy
-  31|panchakarma therapy session
-  32|detox treatment program
-  33|abhyanga massage therapy
-  34|shirodhara therapy session
-  35|basti treatment therapy
-  36|nasya therapy session
-  37|rejuvenation therapy
-  38|pain relief therapy
-  39|nerve strengthening therapy
-  40|relaxation therapy
-  41|medicine prescription
-  42|herbal medicine dosage
-  43|tablet syrup intake
-  44|classical medicine use
-  45|proprietary medicine course
-  46|immunity medicine course
-  47|diabetes medicine refill
-  48|liver tonic usage
-  49|cough syrup intake
-  50|pain relief oil
-  51|hospital admission
-  52|inpatient care service
-  53|discharge summary
-  54|ward allocation
-  55|therapy room booking
-  56|day care admission
-  57|intensive care unit
-  58|room booking request
-  59|clinic facility inquiry
-  60|medical staff support
-  61|treatment invoice
-  62|consultation charges
-  63|insurance claim process
-  64|tpa approval status
-  65|cash payment option
-  66|prepaid package plan
-  67|treatment discount offer
-  68|billing inquiry
-  69|refund request
-  70|payment status check
-  71|callback request
-  72|help desk support
-  73|inquiry follow up
-  74|response delay issue
-  75|department transfer request
-  76|call on hold
-  77|call disconnected issue
-  78|order status inquiry
-  79|service feedback request
-  80|customer support assistance
-  81|health policy details
-  82|insurance coverage check
-  83|claim settlement status
-  84|cashless treatment option
-  85|follow up appointment
-  86|treatment continuation plan
-  87|medicine reorder request
-  88|retail purchase inquiry
-  89|clinic camp registration
-  90|wellness camp inquiry
-  91|emergency consultation request
-  92|urgent doctor visit
-  93|treatment delay complaint
-  94|hygiene sanitation issue
-  95|patient transfer request
-  96|room availability check
-  97|admission status inquiry
-  98|discharge process update
-  99|health record request
-  100|thank you feedback
+keywords:\n
+  keywords[keyword_id|keyword_text]:\n
+  1|appointment booking\n
+  2|doctor consultation\n
+  3|opd registration\n
+  4|clinic visit\n
+  5|vaidya consultation\n
+  6|health checkup\n
+  7|treatment advice\n
+  8|follow up visit\n
+  9|wellness consultation\n
+  10|medical opinion\n
+  11|fever treatment\n
+  12|cold cough relief\n
+  13|stomach disorder treatment\n
+  14|diabetes management\n
+  15|blood pressure check\n
+  16|joint pain treatment\n
+  17|breathing difficulty\n
+  18|chest pain complaint\n
+  19|immunity booster therapy\n
+  20|weakness treatment\n
+  21|stress management therapy\n
+  22|sleep disorder treatment\n
+  23|obesity management program\n
+  24|thyroid care treatment\n
+  25|digestive problem care\n
+  26|liver disorder treatment\n
+  27|kidney health care\n
+  28|skin disease treatment\n
+  29|hair fall treatment\n
+  30|migraine relief therapy\n
+  31|panchakarma therapy sessio\nn
+  32|detox treatment program\n
+  33|abhyanga massage therapy\n
+  34|shirodhara therapy session\n
+  35|basti treatment therapy\n
+  36|nasya therapy session\n
+  37|rejuvenation therapy\n
+  38|pain relief therapy\n
+  39|nerve strengthening therapy\n
+  40|relaxation therapy\n
+  41|medicine prescription\n
+  42|herbal medicine dosage\n
+  43|tablet syrup intake\n
+  44|classical medicine use\n
+  45|proprietary medicine course\n
+  46|immunity medicine course\n
+  47|diabetes medicine refill\n
+  48|liver tonic usage\n
+  49|cough syrup intake\n
+  50|pain relief oil\n
+  51|hospital admission\n
+  52|inpatient care service\n
+  53|discharge summary\n
+  54|ward allocation\n
+  55|therapy room booking\n
+  56|day care admission\n
+  57|intensive care unit\n
+  58|room booking request\n
+  59|clinic facility inquiry\n\n
+  60|medical staff support\n
+  61|treatment invoice\n
+  62|consultation charges\n
+  63|insurance claim process\n
+  64|tpa approval status\n
+  65|cash payment option\n
+  66|prepaid package plan\n
+  67|treatment discount offer\n
+  68|billing inquiry\n
+  69|refund request\n
+  70|payment status check\n
+  71|callback request\n
+  72|help desk support\n
+  73|inquiry follow up\n
+  74|response delay issue\n
+  75|department transfer request\n  
+  76|call on hold\n
+  77|call disconnected issue\n
+  78|order status inquiry\n
+  79|service feedback request\n
+  80|customer support assistance\n
+  81|health policy details\n
+  82|insurance coverage check\n
+  83|claim settlement status\n
+  84|cashless treatment option\n
+  85|follow up appointment\n
+  86|treatment continuation plan\n
+  87|medicine reorder request\n
+  88|retail purchase inquiry\n
+  89|clinic camp registration\n
+  90|wellness camp inquiry\n
+  91|emergency consultation request\n
+  92|urgent doctor visit\n
+  93|treatment delay complaint\n
+  94|hygiene sanitation issue\n
+  95|patient transfer request\n
+  96|room availability check\n
+  97|admission status inquiry\n
+  98|discharge process update\n
+  99|health record request\n
+  100|thank you feedback\n
             
-topics:
-  topics[description|spoken_by|topic_id|topic_name]:
-  agent confirms that the appointment has been booked.|both|1|appointment booked successfully
-  agent confirms that the customer's insurance is accepted.|agent|2|insurance accepted confirmation
-  customer expresses satisfaction with the doctor's consultation.|customer|3|doctor consultation satisfaction
-  agent promises to follow up with a callback.|agent|4|callback promised
-  agent confirms the patient's identity successfully.|both|5|identity verified
-  agent ends the call courteously.|agent|6|polite closing
-  customer appreciates the cleanliness and hygiene of the hospital.|customer|7|clean and hygienic feedback
-  agent resolves the customers concern on the call.|agent|8|issue resolved
-  customer praises staff or nurse behavior.|customer|9|good staff behavior
-  customer appreciates prompt or fast service.|customer|10|fast service appreciated
-  agent informs that the doctor is currently unavailable.|agent|11|doctor not available
-  customer says they have called multiple times for the same issue.|customer|12|repeated follow-up calls
-  customer complains about billing issues or overcharges.|customer|13|billing confusion
-  customer reports unhygienic conditions at the hospital.|customer|14|cleanliness complaint
-  either party faces technical issues during the call.|both|15|technical glitch in call
-  customer complains about rude behavior by staff.|customer|16|staff rudeness
-  customer complains about excessive wait time.|customer|17|long wait time
-  customer says appointment was not booked as promised.|customer|18|appointment not booked
-  customer complains that no callback was received.|customer|19|no follow-up call
-  customer accuses the doctor of incorrect diagnosis.|customer|20|doctor misdiagnosis allegation
+topics:\n
+  topics[description|spoken_by|topic_id|topic_name]:\n
+  agent confirms that the appointment has been booked.|both|1|appointment booked successfully\n
+  agent confirms that the customer's insurance is accepted.|agent|2|insurance accepted confirmation\n
+  customer expresses satisfaction with the doctor's consultation.|customer|3|doctor consultation satisfaction\n
+  agent promises to follow up with a callback.|agent|4|callback promised\n
+  agent confirms the patient's identity successfully.|both|5|identity verified\n
+  agent ends the call courteously.|agent|6|polite closing\n
+  customer appreciates the cleanliness and hygiene of the hospital.|customer|7|clean and hygienic feedback\n
+  agent resolves the customers concern on the call.|agent|8|issue resolved\n
+  customer praises staff or nurse behavior.|customer|9|good staff behavior\n
+  customer appreciates prompt or fast service.|customer|10|fast service appreciated\n
+  agent informs that the doctor is currently unavailable.|agent|11|doctor not available\n
+  customer says they have called multiple times for the same issue.|customer|12|repeated follow-up calls\n
+  customer complains about billing issues or overcharges.|customer|13|billing confusion\n
+  customer reports unhygienic conditions at the hospital.|customer|14|cleanliness complaint\n
+  either party faces technical issues during the call.|both|15|technical glitch in call\n
+  customer complains about rude behavior by staff.|customer|16|staff rudeness\n
+  customer complains about excessive wait time.|customer|17|long wait time\n
+  customer says appointment was not booked as promised.|customer|18|appointment not booked\n
+  customer complains that no callback was received.|customer|19|no follow-up call\n
+  customer accuses the doctor of incorrect diagnosis.|customer|20|doctor misdiagnosis allegation\n
 
     
-Evaluation Questions:
-  questions[description|id|maxScore|text|type]:
-  greeted properly - (no use of hello/hi on call) mentioned company name (jeena sikho hiims) followed standard opening line fully (jeena sikho shuddhi hiims person name), late opening.|1|3|correct opening script|pass_fail
-  addressed patient by name (at thrice throught out the call pronounced name correctly tone was professional and personalized|2|5|used patient name - personalization|pass_fail
-  clearly stated own name spoke with clarity|3|3|self introduction|pass_fail
-  promptly responded to patients concern voice tone showed eagerness to help used helpful language (e.g., i'll surely help you) used warm tone|4|5|showed interest & willingness to assist built rapport/relation with patient|pass_fail
-  maintained continuous engagement used fillers or confirmations appropriately avoided awkward silence|5|5|no dead air > 10 secs|pass_fail
-  informed before placing on hold (hold/unhold script) hold duration was within 120 seconds|6|8|hold protocol - hold/unhold script, hold timeline used > 120 secs|pass_fail
-  actively listened interruption responded based on patient's input|7|3|attentiveness (fatal parameter)|pass_fail
-  voice was energetic maintained consistent energy throughout the call|8|5|enthusiasm & energetic tone|pass_fail
-  used empathetic phrases (i understand how you feel) showed emotional understanding|9|4|empathy & apology|pass_fail
-  spoke clearly and audibly maintained appropriate pace, slang, or casual words|10|3|clear speech/no casual tone|pass_fail
-  maintained professional tone avoided sarcasm, slang, or over-casual words|11|5|sarcastic tone (fatal paramter)|pass_fail
-  used polite words (please, thank you, sir/maam) maintained respectful language|12|3|courtesy|pass_fail
-  acknowledged patient concerns used confirming phrases (got it, noted, i understand)|13|4|acknowledgement|pass_fail
-  words were pronounced correctly avoided regional influence that could cause confusion|14|3|good pronunciation|pass_fail
-  asked about time duration of symptoms asked about any current or past medicines asked for family history if relevant took age, weight, height, gender|15|5|relevant probing related to patient's query|pass_fail
-  information shared was factually accurate and aligned with protocols|16|10|correct information|pass_fail
-  patient's query was fully addressed, without missing critical points, webinar pitch|17|10|complete information|pass_fail
-  agent shared helpful, extra inputs (e.g. youtube channel & insurance)|18|5|additional relevant information given|pass_fail
-  summarized the conversation happened during the interaction with patient|19|3|summarized the conversation|pass_fail
-  did agent offered followup patient that he/she will call back within 2-3 days|20|2|offered follow-up/help|pass_fail
-  did agent asked if patient need any other help before closing the call|21|3|further assistance|pass_fail
-  did agent used proper closing script as per the process used brand name at the end of the call|22|3|used proper closing|pass_fail
-  agent must ask, capture, and document all mandatory patient details during the call: patient name, age, pincode, disease/symptoms, phone number, whatsapp number, and add complete, accurate notes; missing or unclear capture of any one item mark results in fail (score 0).|23|1|mandatory patient details captured|pass_fail
-  direct termination|24|1|rude with the patient and call disconnection/ abusive language used|pass_fail
+Evaluation Questions:\n
+  questions[description|id|maxScore|text|type]:\n
+  greeted properly - (no use of hello/hi on call) mentioned company name (jeena sikho hiims) followed standard opening line fully (jeena sikho shuddhi hiims person name), late opening.|1|3|correct opening script|pass_fail\n
+  addressed patient by name (at thrice throught out the call pronounced name correctly tone was professional and personalized|2|5|used patient name - personalization|pass_fail\n
+  clearly stated own name spoke with clarity|3|3|self introduction|pass_fail\n
+  promptly responded to patients concern voice tone showed eagerness to help used helpful language (e.g., i'll surely help you) used warm tone|4|5|showed interest & willingness to assist built rapport/relation with patient|pass_fail\n
+  maintained continuous engagement used fillers or confirmations appropriately avoided awkward silence|5|5|no dead air > 10 secs|pass_fail\n
+  informed before placing on hold (hold/unhold script) hold duration was within 120 seconds|6|8|hold protocol - hold/unhold script, hold timeline used > 120 secs|pass_fail\n
+  actively listened interruption responded based on patient's input|7|3|attentiveness (fatal parameter)|pass_fail\n
+  voice was energetic maintained consistent energy throughout the call|8|5|enthusiasm & energetic tone|pass_fail\n
+  used empathetic phrases (i understand how you feel) showed emotional understanding|9|4|empathy & apology|pass_fail\n
+  spoke clearly and audibly maintained appropriate pace, slang, or casual words|10|3|clear speech/no casual tone|pass_fail\n
+  maintained professional tone avoided sarcasm, slang, or over-casual words|11|5|sarcastic tone (fatal paramter)|pass_fail\n
+  used polite words (please, thank you, sir/maam) maintained respectful language|12|3|courtesy|pass_fail\n
+  acknowledged patient concerns used confirming phrases (got it, noted, i understand)|13|4|acknowledgement|pass_fail\n
+  words were pronounced correctly avoided regional influence that could cause confusion|14|3|good pronunciation|pass_fail\n
+  asked about time duration of symptoms asked about any current or past medicines asked for family history if relevant took age, weight, height, gender|15|5|relevant probing related to patient's query|pass_fail\n
+  information shared was factually accurate and aligned with protocols|16|10|correct information|pass_fail\n
+  patient's query was fully addressed, without missing critical points, webinar pitch|17|10|complete information|pass_fail\n
+  agent shared helpful, extra inputs (e.g. youtube channel & insurance)|18|5|additional relevant information given|pass_fail\n
+  summarized the conversation happened during the interaction with patient|19|3|summarized the conversation|pass_fail\n
+  did agent offered followup patient that he/she will call back within 2-3 days|20|2|offered follow-up/help|pass_fail\n
+  did agent asked if patient need any other help before closing the call|21|3|further assistance|pass_fail\n
+  did agent used proper closing script as per the process used brand name at the end of the call|22|3|used proper closing|pass_fail\n
+  agent must ask, capture, and document all mandatory patient details during the call: patient name, age, pincode, disease/symptoms, phone number, whatsapp number, and add complete, accurate notes; missing or unclear capture of any one item mark results in fail (score 0).|23|1|mandatory patient details captured|pass_fail\n
+  direct termination|24|1|rude with the patient and call disconnection/ abusive language used|pass_fail\n
